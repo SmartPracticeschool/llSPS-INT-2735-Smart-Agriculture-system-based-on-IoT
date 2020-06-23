@@ -77,6 +77,8 @@ Further we need to install the dashboard nodes if they aren't installed already.
 
 This flow pulls weather data from OpenWeatherMap (OWM) then presents it in a dashboard showing current weather conditions along with forecasts for the next 6 hours and 6 days. The mix of text and icons creates a compact and attractive display.
 
+![image](https://user-images.githubusercontent.com/5475317/84967619-a3bdcd80-b0d1-11ea-89bb-452d0387316c.png)
+
 Moreover there are also different tabs that shows the data pulled from the bluemix sensor. These are the temperature, humidity and the mositure level of the soil.
 
 1. No Custom Nodes
