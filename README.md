@@ -21,34 +21,33 @@ Next we have to create an API Key. An API key or ***application programming inte
 
 ### Installing the Node-Red
 
-Quick Start
 1. Install Node.js
 
-Download the latest 10.x LTS version of Node.js from the official [Node.js home page](https://nodejs.org/en/). It will offer you the best version for your system.
+ Download the latest 10.x LTS version of Node.js from the official [Node.js home page](https://nodejs.org/en/). It will offer you the best version for your system.
 
-Run the downloaded MSI file. Installing Node.js requires local administrator rights; if you are not a local administrator, you will be prompted for an administrator password on install. Accept the defaults when installing. After installation completes, close any open command prompts and re-open to ensure new environment variables are picked up.
+ Run the downloaded MSI file. Installing Node.js requires local administrator rights; if you are not a local administrator, you will be prompted for an administrator password on install. Accept the defaults when installing. After installation completes, close any open command prompts and re-open to ensure new environment variables are picked up.
 
-Once installed, open a command prompt and run the following command to ensure Node.js and npm are installed correctly.
+ Once installed, open a command prompt and run the following command to ensure Node.js and npm are installed correctly.
 
-Using cmd: node --version && npm --version
+ Using cmd: node --version && npm --version
 
-You should receive back output that looks similar to:
+ You should receive back output that looks similar to:
 
-v10.16.3
+ v10.16.3
 
-6.11.3
+ 6.11.3
 
 2. Install Node-RED
 
-Installing Node-RED as a global module adds the command node-red to your system path. Execute the following at the command prompt:
+ Installing Node-RED as a global module adds the command node-red to your system path. Execute the following at the command prompt:
 
-**npm install -g --unsafe-perm node-red**
+ **npm install -g --unsafe-perm node-red**
 
 3. Run Node-RED
 
-Once installed, you are ready to run Node-RED.
+ Once installed, you are ready to run Node-RED.
 
-Use the command **node-red** in Node.js
+ Use the command **node-red** in Node.js
 
 ### Installing Python IDLE 3
 
