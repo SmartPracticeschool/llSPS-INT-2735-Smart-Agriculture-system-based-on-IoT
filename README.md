@@ -99,7 +99,7 @@ Open the node labeled "Set location, appid, units" and change these parameters:
 
 NOTE: You can get your latitude and longitude by looking up your town in OpenWeatherMap.*
 
-#### 4. One Call
+#### One Call
 I used the new [One Call API](https://openweathermap.org/api/one-call-api) from OpenWeatherMap that returns all this data:
 * Minute forecast for 1 hour
 * Hourly forecast for 48 hours
@@ -108,7 +108,7 @@ I used the new [One Call API](https://openweathermap.org/api/one-call-api) from 
 
 ![image](https://user-images.githubusercontent.com/5475317/84967765-01eab080-b0d2-11ea-81c5-4f5d48b53d14.png)
 
-#### 5. Setup and Configuration of IBM IoT
+#### Setup and Configuration of IBM IoT
 
 Open the node labeled "IBM IoT" and change these parameters:
 * Change `msg.applicationId` to your API Key from the Watson IoT Platform:
@@ -117,3 +117,9 @@ Open the node labeled "IBM IoT" and change these parameters:
 
 ![image](https://github.com/SmartPracticeschool/llSPS-INT-2735-Smart-Agriculture-system-based-on-IoT/blob/master/Node-Red%20Dashboard.png)
 
+flow link.
+
+
+### Configure Your Device To Receive The Data From The Web Application And Control Your Motors
+
+Copy the given folder link.
