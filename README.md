@@ -11,7 +11,7 @@ Launch the service after creating it.
 
 ### IBM IoT Platform
 
-After launching the service from the IBM CLoud. It will redirect you to [IBM Watson IoT Platform](https://internetofthings.ibmcloud.com/). Here we have to create couple of devices, one device will be for transmitting the data from sensor to the mobile application while other will be for receiving any command from the aplication.
+After launching the service from the IBM CLoud. It will redirect you to [IBM Watson IoT Platform](https://internetofthings.ibmcloud.com/). Here we have to create couple of devices, one device will be for transmitting the data from sensor to the mobile application while other will be for receiving any command from the application.
 
 ![image](https://github.com/SmartPracticeschool/llSPS-INT-2735-Smart-Agriculture-system-based-on-IoT/blob/master/IBM%20Devices.png)
 
