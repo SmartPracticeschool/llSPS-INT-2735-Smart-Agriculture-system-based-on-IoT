@@ -97,7 +97,7 @@ Open the node labeled "Set location, appid, units" and change these parameters:
 * Change `msg.payload.appid` to your API key.
 * Change `msg.payload.units` to imperial or metric.
 
-NOTE: You can get your latitude and longitude by looking up your town in OpenWeatherMap.*
+NOTE: You can get your latitude and longitude by looking up your town in OpenWeatherMap.
 
 #### One Call
 I used the new [One Call API](https://openweathermap.org/api/one-call-api) from OpenWeatherMap that returns all this data:
