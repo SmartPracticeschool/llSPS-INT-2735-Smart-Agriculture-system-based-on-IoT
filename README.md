@@ -1,5 +1,6 @@
 # llSPS-INT-2735-Smart-Agriculture-system-based-on-IoT
 Smart Agriculture system based on IoT.
+By Rachit Upadhyay.
 
 ### IBM Cloud
 
